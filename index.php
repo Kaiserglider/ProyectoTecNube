@@ -11,11 +11,11 @@
 <body>
     <container>
       <contenidos>
+        <form>
         <div class="card" style="width: 18rem;">
             <img src="https://picsum.photos/id/237/100/100" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 id="centrar" class="card-title">Iniciar Sesion:</h5>
-              <form>
                 <div class="mb-3">
                   <label for="exampleInputEmail1" class="form-label">Correo Electrónico</label>
                   <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
