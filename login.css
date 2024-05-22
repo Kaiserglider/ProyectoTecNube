@@ -1,0 +1,14 @@
+contenidos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 75px;
+    background-color: rgb(103, 153, 245);
+}
+#centrar{
+    text-align: center;
+}
+body{
+    background-color: rgb(121, 184, 255);
+}
